@@ -95,10 +95,4 @@ Got ideas for improvements or want to add new features? PRs and issues are welco
 
 ---
 
-## 📷 Optional: Demo
-
-> Add a GIF or YouTube link here showing gameplay and LCD output  
-> Example: ![Gameplay Demo](link-to-your-gif-or-video)
-
----
 
