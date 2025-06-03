@@ -75,14 +75,14 @@ Use pull-down resistors for buttons, or configure internal pull-up/down as neede
 
 ## 📺 LCD Output Example
 
-Round 3
-P1:2 P2:1
+-Round 3
+-P1:2 P2:1
 
-Player 2 Early
-P1:3 P2:1
+-Player 2 Early
+-P1:3 P2:1
 
-End Game
-P1:4 P2:1
+-End Game
+-P1:4 P2:1
 ---
 
 ## 🛠️ Customization Ideas
